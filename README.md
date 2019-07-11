@@ -34,4 +34,4 @@ The link contains two things: the text you see in brackets; then the link.
 
 We can include images like this:
 
-![My Corgi Hank](Hank.jpg)
+![My Corgi Hank](Hank.JPG)
