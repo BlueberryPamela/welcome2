@@ -13,7 +13,8 @@ _**bold italic**_
 The purpose of this repo is to demonstrate how git works,
 and how markdown work.
 
-You are welcome to copy and play with this repo.
+> You are welcome to copy and play with this repo.
+> This is a quote, using a >
 
 ## second level head
 ### third level head
