@@ -29,3 +29,9 @@ Bullet list can be done with '*' or '-':
 HTML links work as this: [google](https://www.google.com)
 
 The link contains two things: the text you see in brackets; then the link.
+
+### Images
+
+We can include images like this:
+
+![My Corgi Hank](Hank.jpg)
