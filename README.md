@@ -1,10 +1,21 @@
 # welcome2
 asdf starting
 
-Hello. This is a test message. 
+My name is **Pamela Johnson**. 
 
-I am adding more. I find this interesting.
+I live in _Duvall, Washinigton._
 
-Line 3 adding it because I'm supposed to do this.
+_italic_
+**bold**
+_**bold italic**_
+# used for headling levels
+## second level head
+### third level head
 
-Adding another line because I need to.
+Bullet list can be done with '*' or '-':
+
+* this is an example with asterisk
+- this is an example with dasy
+    * here is a subitem (indent with 4 spaces!)
+
+
